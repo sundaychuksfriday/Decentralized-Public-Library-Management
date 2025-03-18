@@ -9,3 +9,9 @@ O
 tests/book-registration.test.ts,f/5/f59a6749dc4a9606ff13c52ee348bfd284e3b0cb
 G
 tests/borrowing.test.ts,6/5/65e3afa86612ff32fa4c621ca10110799e0d0405
+Q
+!contracts/inter-library-loan.clar,f/3/f3f56b76dbb2cd3f9e47b49dc8a62ae14824c3f0
+M
+tests/usage-analytics.test.ts,0/0/00c0c7e740e2d041095bec202fa472e88380fadb
+P
+ tests/inter-library-loan.test.ts,3/f/3feed87175450bddc951f73b376968c2ba9c498f
