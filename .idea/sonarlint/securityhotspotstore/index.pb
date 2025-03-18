@@ -15,3 +15,5 @@ M
 tests/usage-analytics.test.ts,0/0/00c0c7e740e2d041095bec202fa472e88380fadb
 P
  tests/inter-library-loan.test.ts,3/f/3feed87175450bddc951f73b376968c2ba9c498f
+N
+contracts/usage-analytics.clar,2/e/2ebac4c0097bc32e23a2e41e673879bfef3a8135
